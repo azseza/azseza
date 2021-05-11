@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azseza,
-- 👀 I’m interested in the three Pess , Programming , Party and Progress
-- 🌱 I’m currently learning a lot of stuff , but I'm still a software engineering student
-- 💞️ I’m looking to collaborate on any thing open source that could help the peaple 
+- 👀 I’m interested in the three P's , Programming , Party and Progress
+- 🌱 I’m currently learning a lot of intresting things , but I'm still a software engineering student
+- 💞️ I’m looking to collaborate on any thing  that could help the peaple 
 - 📫 How to reach me : azeer.ltifi@gmail.com 
